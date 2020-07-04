@@ -1,5 +1,4 @@
 # Hello-world
-testing
 
 Hi guys, it's me faiz
 i'm learning how to use github
